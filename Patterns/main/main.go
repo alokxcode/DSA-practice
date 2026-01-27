@@ -33,4 +33,10 @@ func main() {
 
 	fmt.Println("\nNinth Pattern")
 	pattern.Nine()
+
+	fmt.Println("\nTenth Pattern")
+	pattern.Ten()
+
+	fmt.Println("\nEleventh Pattern")
+	pattern.Eleven()
 }
